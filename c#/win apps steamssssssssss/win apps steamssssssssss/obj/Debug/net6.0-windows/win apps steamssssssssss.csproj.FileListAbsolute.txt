@@ -1,0 +1,17 @@
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\bin\Debug\net6.0-windows\win apps steamssssssssss.exe
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\bin\Debug\net6.0-windows\win apps steamssssssssss.deps.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\bin\Debug\net6.0-windows\win apps steamssssssssss.runtimeconfig.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\bin\Debug\net6.0-windows\win apps steamssssssssss.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\bin\Debug\net6.0-windows\win apps steamssssssssss.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win_apps_steamssssssssss.Properties.Resources.resources
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.csproj.GenerateResource.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.AssemblyInfoInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.AssemblyInfo.cs
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.csproj.CoreCompileInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\refint\win apps steamssssssssss.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win apps steamssssssssss.genruntimeconfig.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\ref\win apps steamssssssssss.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\win apps steamssssssssss\obj\Debug\net6.0-windows\win_apps_steamssssssssss.Form7.resources

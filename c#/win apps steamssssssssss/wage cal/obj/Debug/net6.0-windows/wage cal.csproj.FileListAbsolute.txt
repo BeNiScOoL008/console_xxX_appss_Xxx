@@ -1,0 +1,17 @@
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\bin\Debug\net6.0-windows\wage cal.exe
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\bin\Debug\net6.0-windows\wage cal.deps.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\bin\Debug\net6.0-windows\wage cal.runtimeconfig.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\bin\Debug\net6.0-windows\wage cal.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\bin\Debug\net6.0-windows\wage cal.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage_cal.Form1.resources
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.csproj.GenerateResource.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.AssemblyInfoInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.AssemblyInfo.cs
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.csproj.CoreCompileInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\refint\wage cal.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage cal.genruntimeconfig.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\ref\wage cal.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\wage cal\obj\Debug\net6.0-windows\wage_cal.Form2.resources

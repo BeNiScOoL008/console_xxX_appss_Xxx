@@ -1,0 +1,19 @@
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\translateor 9000.exe
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\translateor 9000.deps.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\translateor 9000.runtimeconfig.json
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\translateor 9000.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\translateor 9000.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.csproj.AssemblyReference.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor_9000.Form1.resources
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.csproj.GenerateResource.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.AssemblyInfoInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.AssemblyInfo.cs
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.csproj.CoreCompileInputs.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.csproj.CopyComplete
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\refint\translateor 9000.dll
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.pdb
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\translateor 9000.genruntimeconfig.cache
+C:\Users\2013.103063\source\repos\win apps steamssssssssss\translateor 9000\obj\Debug\net6.0-windows\ref\translateor 9000.dll
